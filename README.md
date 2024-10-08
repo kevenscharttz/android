@@ -11,3 +11,6 @@ O projeto tem os seguintes objetivos:
 * Preparar o terreno para projetos mais complexos no futuro.
 
 Sinta-se à vontade para explorar e acompanhar o progresso!
+
+![android](https://commons.wikimedia.org/wiki/File:Android_robot.png)
+
