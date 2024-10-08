@@ -12,5 +12,5 @@ O projeto tem os seguintes objetivos:
 
 Sinta-se à vontade para explorar e acompanhar o progresso!
 
-![android](https://commons.wikimedia.org/wiki/File:Android_robot.png)
+[![Android Robot](https://upload.wikimedia.org/wikipedia/commons/3/3e/Android_robot.png)](https://commons.wikimedia.org/wiki/File:Android_robot.png)
 
