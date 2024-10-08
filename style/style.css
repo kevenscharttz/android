@@ -56,6 +56,25 @@ header li {
     font-weight: bold;
 }
 main {
-    margin: 0px 80px 0px 80px;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 25px;
     background-color: white;
+}
+main h1 {
+    font-family: var(--fonteAndroid);
+    color: var(--cor3);
+}
+
+main h2 {
+    font-family: var(--fonteAndroid);
+    color: black;
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+}
+main p {
+    text-indent: 30px;
+    line-height: 25px;
+    text-align: justify;
+    padding: 10px;
 }
