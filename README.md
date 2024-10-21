@@ -1,4 +1,4 @@
-# Site Android (em processo)🛠️
+# Site Android 🛠️
 
 Este site está sendo desenvolvido como um exercício pessoal durante o curso de **HTML5 e CSS3** do *Gustavo Guanabara*. O objetivo é colocar em prática os conhecimentos adquiridos e testar minhas habilidades de forma mais aplicada.
 
